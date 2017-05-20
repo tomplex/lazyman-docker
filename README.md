@@ -1,11 +1,13 @@
 
 # lazyman-docker
 
-Not available on docker library, nor is this fully working.
+Dockerized [LazyMan](https://github.com/StevensNJD4/LazyMan).
+
+Not fully working yet. See [issues](https://github.com/tomplex/lazyman-docker#issues)
 
 ## build
 
-run `./build.sh`
+`./build.sh`
 
 ## run
 
